@@ -1,0 +1,26 @@
+
+body{background-image: url("../img/home.jpg");
+background-repeat: no-repeat;
+background-position: right;
+background-attachment:fixed;
+background-size: 75%;}
+
+header a {text-decoration: none;
+
+cursor: pointer;
+margin-top: 10px;}
+
+ a:hover {background-color: grey;
+}
+
+.emilia{font-family:'Raleway', sans-serif;
+display: flex;
+}
+
+.twist{font-family: 'Raleway', sans-serif;
+font-size: 60px;
+background-color:rgba(255,255,255,0.3);
+margin-top: 100px;}
+
+/*font-family: 'Raleway', sans-serif;
+'Work Sans', sans-serif;
